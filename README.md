@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-### My name Tate Frost and I am a software engineer who is eager and ready to learn everything and anything software! Specifically, I am devoted to internet security and enjoy cryptography. I have worked in fast food and factories and am ready to make a change, I am currently attending DevMountain in hopes of working closely in the future with web security and eventually working in the world of cryptocurrencies and the blockchain which are two subjects I am passionate about. I use Javascript currently but will soon take on Python as my main programming language. 
+### Howdy, my name Tate Frost and I am a software engineer who is eager and ready to learn everything and anything software! I am devoted to python development, specifically back end web development, however I am also very intrigued by cyber security and cryptography. I have worked in fast food and factories and am ready to make a change, I am currently attending DevMountain in hopes of working closely in the future with python back end based web applications and eventually working in the world of cryptocurrencies and the blockchain which are all subjects I am passionate about. I use Javascript currently but will soon take on Python as my main programming language.
 
 <!--
 **tatefrost/tatefrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
