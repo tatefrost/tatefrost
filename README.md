@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-### My name Tate Frost and I am a software engineer who is eager and ready to learn everything and anything software! I am devoted to python development, specifically back end web development, however I am also very intrigued by cyber security and cryptography. I have worked in fast food and factories and am ready to make a change, I am currently working closely with and looking for work in python based web applications using flask and eventually I would like to work in the world of cryptocurrencies and the blockchain which are all subjects I am passionate about.
+### My name Tate Frost and I am a software engineer who is eager and ready to learn everything and anything software! I am devoted to python development, specifically back end web development, however I am also very intrigued by cyber security and cryptography. I have worked in fast food and factories and am ready to make a change, I am currently working closely with and looking for work in python based web applications utilizing flask and eventually I would like to work in the world of cryptocurrencies/blockchains which are all subjects I am passionate about.
 
 <!--
 **tatefrost/tatefrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
