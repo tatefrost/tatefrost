@@ -5,6 +5,8 @@
 ### Find me on linked in right [here](https://www.linkedin.com/in/tate-frost/) !
 
 ### Also check out my resume [here](https://docs.google.com/document/d/12QEgAKQ3NGxJnGTcjPDemnMkYcZ9nBKsOhmGJBwvKxI/edit?usp=sharing)
+
+### Or take a look at my portfolio [here](https://tatefrost.github.io/index.html)
 <!--
 **tatefrost/tatefrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
