@@ -1,7 +1,7 @@
 ## Howdy, my name Tate Frost 👋
 
 - 🤠 I am a software engineer who is eager and ready to learn everything and anything technology! 
-- 🐍 I am devoted to Python development, specifically back end web development, however I am also very intrigued by cyber security and cryptography.👀 
+- 🐍 I am devoted to Python development, specifically back end web development, however I am also very intrigued by cyber security and cryptography👀 
 - 💪 I have worked in fast food and factories and am ready to make a change, I am currently working closely with and looking for work in Python based web applications utilizing Flask
 - 🎸 I love to do anything and everything that has to do with music, and I love to play the guitar amongst other instruments 
 - 🏎 I am also very passionate about personal finances and motor vehicles, and enjoy spending the time when I have it!
