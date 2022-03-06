@@ -14,6 +14,8 @@ Also check out my resume [here](https://docs.google.com/document/d/12QEgAKQ3NGxJ
 
 Or take a look at my portfolio [here](https://tatefrost.github.io/index.html)
 
+My codewars [here](https://www.codewars.com/users/tatefrost)
+
 
 ## Technologies
 
