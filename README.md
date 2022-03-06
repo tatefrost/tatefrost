@@ -8,13 +8,13 @@
 
 ## Connect with me
 
-Find me on linked in right [here](https://www.linkedin.com/in/tate-frost/) !
+Find me on [LinkedIn](https://www.linkedin.com/in/tate-frost/) right here!
 
-Also check out my resume [here](https://docs.google.com/document/d/12QEgAKQ3NGxJnGTcjPDemnMkYcZ9nBKsOhmGJBwvKxI/edit?usp=sharing)
+Also check out my [resume](https://docs.google.com/document/d/12QEgAKQ3NGxJnGTcjPDemnMkYcZ9nBKsOhmGJBwvKxI/edit?usp=sharing)
 
-Or take a look at my portfolio [here](https://tatefrost.github.io/index.html)
+Or take a look at my [portfolio](https://tatefrost.github.io/index.html)
 
-My codewars [here](https://www.codewars.com/users/tatefrost)
+My [codewars](https://www.codewars.com/users/tatefrost)
 
 
 ## Technologies
