@@ -8,13 +8,13 @@
 
 ## Connect with me
 
-Find me on [LinkedIn](https://www.linkedin.com/in/tate-frost/) right here!
+- Find me on [LinkedIn](https://www.linkedin.com/in/tate-frost/) right here!
 
-Also check out my [resume](https://docs.google.com/document/d/12QEgAKQ3NGxJnGTcjPDemnMkYcZ9nBKsOhmGJBwvKxI/edit?usp=sharing)
+- Also check out my [resume](https://docs.google.com/document/d/12QEgAKQ3NGxJnGTcjPDemnMkYcZ9nBKsOhmGJBwvKxI/edit?usp=sharing)
 
-Or take a look at my [portfolio](https://tatefrost.github.io/index.html)
+- Or take a look at my [portfolio](https://tatefrost.github.io/index.html)
 
-My [codewars](https://www.codewars.com/users/tatefrost)
+- My [codewars](https://www.codewars.com/users/tatefrost)
 
 
 ## Technologies
@@ -31,19 +31,3 @@ My [codewars](https://www.codewars.com/users/tatefrost)
 <br />
 
 ---
-
-
-<!--
-**tatefrost/tatefrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
